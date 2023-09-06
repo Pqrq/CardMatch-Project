@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>SyNet.qss</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>
